@@ -95,7 +95,7 @@ Moodles_UA = {
 	Moodles_foodeaten_lvl3 = "Наївся вдосталь",
 	Moodles_foodeaten_lvl4 = "Повний шлунок",
 	-- Hyperthermia
-	Moodles_hyperthermia_lvl1 = "Неприємно жарко",
+	Moodles_hyperthermia_lvl1 = "Спекотно",
 	Moodles_hyperthermia_lvl2 = "Перегрів",
 	Moodles_hyperthermia_lvl3 = "Сонячний удар",
 	Moodles_hyperthermia_lvl4 = "Гіпертермія",
