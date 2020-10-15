@@ -770,6 +770,7 @@ ItemName_UA = {
 	ItemName_Base.Hat_CrashHelmetFULL = "Шолом мотоциклетний",
 	ItemName_Base.TrapMouse = "Мишоловка",
 	ItemName_Moveables.Moveable = "Переміщуване",
+	ItemName_Base.Mov_AntiqueStove = "Рухомий",
 	ItemName_Base.VarmintRifle = "Гвинтівка MSR700",
 	ItemName_Base.HuntingRifle = "Гвинтівка MSR788",
 	ItemName_Base.WaterMug = "Кружка з водою",
@@ -1475,4 +1476,5 @@ ItemName_UA = {
 	ItemName_Base.WristWatch_Left_ClassicMilitary = "Кварцевий годинник",
 	ItemName_Base.WristWatch_Right_ClassicMilitary = "Кварцевий годинник",
 	ItemName_Base.WaterPaintbucket = "Відро з-під фарби з водою",
+	ItemName_Base.HottieZ = "Журнал «Красуня Z»"
 }
